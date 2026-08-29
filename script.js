@@ -4,7 +4,7 @@
    Every affiliate CTA on this site reads from this one variable,
    so updating it here updates every button on the page.
 ========================================================= */
-const AFFILIATE_LINK = "YOUR_FIVERR_AFFILIATE_LINK_HERE";
+const AFFILIATE_LINK = "https://go.fiverr.com/visit/?bta=1052134&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fsearch%252Fgigs%253Fquery%253Dvideo%252520editing%252520%2526source%253Dtop-bar%2526ref_ctx_id%253D9901d90fa924424b83b8cab04d3bcce8%2526search_in%253Deverywhere%2526search-autocomplete-original-term%253Dvideo%252520editing%252520";
 
 // ---------------------------------------------------------
 // "What kind of video?" category data
